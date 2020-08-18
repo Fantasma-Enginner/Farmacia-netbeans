@@ -11,7 +11,7 @@ import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableRowSorter;
 /**
  *
- * @author Freddy
+ * @author Fantasma-Enginner
  */
 public class Frm_Filtro_Prov extends javax.swing.JFrame {
 public DefaultTableModel tablamodelo;

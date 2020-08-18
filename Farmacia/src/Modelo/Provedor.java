@@ -13,7 +13,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Dario
+ * @author Fantasma-Enginner
  */
 public class Provedor {
     private int id_proveedor;

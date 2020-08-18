@@ -10,7 +10,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author LUIS LOPEZ LOPEZ
+ * @author Fantasma-Enginner
  */
 public class Funciones {
     

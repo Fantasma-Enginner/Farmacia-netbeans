@@ -10,7 +10,7 @@ import Controlador.Conexion;
 
 /**
  *
- * @author Freddy
+ * @author Fantasma-Enginner
  */
 public class V_Pacientes extends javax.swing.JFrame {
 

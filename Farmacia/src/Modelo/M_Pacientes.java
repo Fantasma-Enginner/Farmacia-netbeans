@@ -14,7 +14,7 @@ import java.util.Date;
 
 /**
  *
- * @author Freddy
+ * @author Fantasma-Enginner
  */
 public class M_Pacientes {
  

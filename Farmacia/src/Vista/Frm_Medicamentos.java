@@ -12,7 +12,7 @@ import java.sql.SQLException;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Freddy
+ * @author Fantasma-Enginner
  */
 public class Frm_Medicamentos extends javax.swing.JFrame {
 

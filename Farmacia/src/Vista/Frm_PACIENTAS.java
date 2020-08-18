@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author LUIS LOPEZ LOPEZ
+ * @author Fantasma-Enginner
  */
 public class Frm_PACIENTAS extends javax.swing.JFrame {
 

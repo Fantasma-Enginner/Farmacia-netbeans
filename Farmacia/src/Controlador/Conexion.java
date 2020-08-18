@@ -12,7 +12,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author LUIS LOPEZ LOPEZ
+ * @author Fantasma-Enginner
  */
 public class Conexion {
 

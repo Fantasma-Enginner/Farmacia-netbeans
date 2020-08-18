@@ -6,13 +6,13 @@ import java.sql.SQLException;
 
 /**
  *
- * @author Freddy Moreno Garay
+ * @author fantasma-Enginner
  */
 public class ConexionMYSQL {
 
     private final String bd = "farmacia";
     private final String login = "root";
-    private final String password = "123";
+    private final String password = "";
     private final String url = "jdbc:mysql://localhost/" + bd;
     private Connection conn = null;
 

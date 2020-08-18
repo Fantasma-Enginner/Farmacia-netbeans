@@ -11,7 +11,7 @@ import java.sql.SQLException;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Dario
+ * @author Fantasma-Enginner
  */
 public class Frm_PROVEEDORES extends javax.swing.JFrame {
   public static ConexionMYSQL CN = new ConexionMYSQL();

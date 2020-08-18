@@ -7,7 +7,7 @@ import javax.swing.table.TableRowSorter;
 
 /**
  *
- * @author Freddy Moreno Garay
+ * @author Fantasma-Enginner
  */
 public class Frm_Filtro_Med extends javax.swing.JFrame {
 

@@ -11,7 +11,7 @@ import Modelo.PACIENTES;
 
 /**
  *
- * @author Freddy
+ * @author Fantasma-Enginner
  */
 public class Frm_Principal extends javax.swing.JFrame {
 

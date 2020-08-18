@@ -15,7 +15,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Freddy Moreno
+ * @author Fantasma-Enginner
  */
 public class Medicamentos{
     private int codigo_medicamento;

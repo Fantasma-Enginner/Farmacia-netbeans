@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author LUIS LOPEZ LOPEZ
+ * @author Fantasma-Enginner
  */
 public class DEPARTAMENTOS {
     private String cod_departamento;
